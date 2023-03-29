@@ -7,9 +7,9 @@ export default defineConfig({
     nav: {
       'zh-CN': [
         { title: 'guide', link: '/guide' },
-        { title: 'components', link: '/components/foo' },
-        { title: 'hooks', link: '/hooks/use-unmount' },
-        { title: 'utils', link: '/utils/array-buffer-to-base64' },
+        { title: 'components', link: '/components' },
+        { title: 'hooks', link: '/hooks' },
+        { title: 'utils', link: '/utils' },
       ],
     },
   },

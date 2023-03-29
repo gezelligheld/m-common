@@ -1,6 +1,6 @@
 # arrayBufferToBase64
 
-This is an example utils.
+arrayBuffer 转 base64
 
 ```js
 import { arrayBufferToBase64 } from 'm-common';
