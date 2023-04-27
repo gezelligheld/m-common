@@ -38,3 +38,7 @@ $ pnpm run doctor
 ## LICENSE
 
 MIT
+
+## todo
+
+- 按需加载
